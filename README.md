@@ -1,4 +1,4 @@
-#Grocery Product Tracking System
+# Grocery Product Tracking System
 
 This project represents a grocery product tracking system developed using the C# programming language. This system allows grocery businesses to record their products, manage their inventory, and view purchase prices while adjusting selling prices. Additionally, it includes user authentication for grocery staff and product vendors.
 
